@@ -1,0 +1,5 @@
+bin
+obj
+TestUserRegistration.csproj
+MSTestForUserRegistration.csproj
+TestResults
